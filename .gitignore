@@ -1,0 +1,4 @@
+wasmedge-wasinn-example-tflite-bird-image.wasm
+lite-model_aiy_vision_classifier_birds_V1_3.tflite
+libtensorflowlite_c.so
+bird.jpg
